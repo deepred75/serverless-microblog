@@ -9,5 +9,5 @@ beberapa fiturnya masih sederhana :
 6.  Lead, teaser, tags dan deskripsi article
 7.  Permalink URL seperti Wordpress
 
-Find frontend deployed project here: https://malanggleerrr.com/microblog
+Find frontend deployed project here: https://malanggleerrr.com/microblog <br>
 Find backend deployed project here: https://malanggleerrr.com/microblog/login
