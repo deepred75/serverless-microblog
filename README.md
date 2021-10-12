@@ -7,7 +7,7 @@ beberapa fiturnya masih sederhana :
 4.  Alt image (untuk SEO)
 5.  Image caption (untuk SEO)
 6.  Lead, teaser, tags dan deskripsi article
-7.  Permalink URL seperti Wordpress
+7.  Permalink URL seperti Wordpress<br>
 Secara pribadi saya suka menggunakan microblog serverless karena bisa posting article dari localhost:3000
 
 Find frontend deployed project here: https://malanggleerrr.com/microblog <br>
