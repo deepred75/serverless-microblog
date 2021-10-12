@@ -7,6 +7,6 @@ beberapa fiturnya masih sederhana :
 4.  Alt image (untuk SEO)
 5.  Image caption (untuk SEO)
 6.  Lead, teaser, tags dan deskripsi article
-7.  Permalink URL seperti Wordpress<p>
+7.  Permalink URL seperti Wordpress<br>
 Find frontend deployed project here: https://malanggleerrr.com/microblog <br>
 Find backend deployed project here: https://malanggleerrr.com/microblog/login
