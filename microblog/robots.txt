@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://deep-red.info/sitemap.xml
