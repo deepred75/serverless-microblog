@@ -9,7 +9,7 @@ beberapa fiturnya masih sederhana :
 6.  Lead, teaser, tags dan deskripsi article
 7.  Permalink URL seperti Wordpress<p>
 
-Secara pribadi saya suka menggunakan microblog serverless karena bisa posting article dari localhost:3000
+Secara pribadi saya suka menggunakan microblog serverless karena sangat memungkinkan untuk posting article dari server pribadi localhost:3000
 
 Find frontend deployed project here: https://malanggleerrr.com/microblog <br>
 Find backend deployed project here: https://malanggleerrr.com/microblog/login
