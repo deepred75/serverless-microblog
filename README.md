@@ -1,6 +1,6 @@
 # serverless-microblog
-Web app micro blogging menggunakan Framework Nuxt dengan component Vue.JS dengan server menggunakan Google Firebase, 
-beberapa fiturnya masih sederhana :
+Web app microblog menggunakan Framework Nuxt dengan component Vue.JS, serverless dengan Google Firebase, 
+static deploy di cloud hosting, beberapa fiturnya masih sederhana :<br>
 1.  Posting full article dan image
 2.  ID artikel dan image
 3.  Checkbox publish article
